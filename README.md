@@ -42,9 +42,6 @@ The main purpose of this project is to allow multiple users to **collaborate on 
 ## 🚀 Live Demo  
 👉 [Click here to try CodeCast](https://codecast-324z.onrender.com)  
 
-📽️ **Demo Video:**  
-https://github.com/Yadvendra016/CodeCast/assets/91756355/dadc9f09-ef24-4c73-aa43-223f7a817f9f  
-
 ---
 
 ## 📌 Conclusion  
